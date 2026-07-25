@@ -10,6 +10,7 @@ An exploration of using sound as an alternative to text-based passwords, facial 
 #### Clone this repository: 
 
 ```
+
 git clone https://github.com/davidvankriedt/soundauth.git
 ```
 
