@@ -3,7 +3,7 @@
 An exploration of using sound as an alternative to text-based passwords, facial recognition, or touch id.
 
 ## Requirements
-    - Python + pip (>= Python 3.8)
+Python + pip (>= Python 3.8)
 
 ## Installation
 
